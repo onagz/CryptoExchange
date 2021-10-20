@@ -2,6 +2,7 @@ module.exports = {
   env: {
     browser: true,
     es6: true,
+
   },
   extends: [
     'plugin:react/recommended',
@@ -26,6 +27,7 @@ module.exports = {
     indent: 'off',
     'template-curly-spacing': 'off',
     'import/extensions': 0,
+    quotes: "off",
     'react/prop-types': 0,
     'linebreak-style': 0,
     'react/state-in-constructor': 0,
