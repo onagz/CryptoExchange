@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CryptoExchange/static/css/main.409a4f06.chunk.css",
+    "main.js": "/CryptoExchange/static/js/main.61a8c5ec.chunk.js",
+    "main.js.map": "/CryptoExchange/static/js/main.61a8c5ec.chunk.js.map",
+    "runtime-main.js": "/CryptoExchange/static/js/runtime-main.d9901ee9.js",
+    "runtime-main.js.map": "/CryptoExchange/static/js/runtime-main.d9901ee9.js.map",
+    "static/css/2.786ae0dd.chunk.css": "/CryptoExchange/static/css/2.786ae0dd.chunk.css",
+    "static/js/2.6053f0f8.chunk.js": "/CryptoExchange/static/js/2.6053f0f8.chunk.js",
+    "static/js/2.6053f0f8.chunk.js.map": "/CryptoExchange/static/js/2.6053f0f8.chunk.js.map",
+    "index.html": "/CryptoExchange/index.html",
+    "static/css/2.786ae0dd.chunk.css.map": "/CryptoExchange/static/css/2.786ae0dd.chunk.css.map",
+    "static/css/main.409a4f06.chunk.css.map": "/CryptoExchange/static/css/main.409a4f06.chunk.css.map",
+    "static/js/2.6053f0f8.chunk.js.LICENSE.txt": "/CryptoExchange/static/js/2.6053f0f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9901ee9.js",
+    "static/css/2.786ae0dd.chunk.css",
+    "static/js/2.6053f0f8.chunk.js",
+    "static/css/main.409a4f06.chunk.css",
+    "static/js/main.61a8c5ec.chunk.js"
+  ]
+}
